@@ -1,0 +1,11 @@
+srinarayan\springmvc\controller\RegistrationController.class
+srinarayan\springmvc\controller\MoreinfoController.class
+srinarayan\springmvc\model\Login.class
+srinarayan\springmvc\service\UserServiceImpl.class
+srinarayan\springmvc\dao\UserDaoImpl.class
+srinarayan\springmvc\dao\UserMapper.class
+srinarayan\springmvc\dao\UserDao.class
+srinarayan\springmvc\model\Moreinformation.class
+srinarayan\springmvc\controller\LoginController.class
+srinarayan\springmvc\model\User.class
+srinarayan\springmvc\service\UserService.class
